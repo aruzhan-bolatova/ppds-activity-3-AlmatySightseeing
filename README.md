@@ -57,6 +57,3 @@ The main goal of this project is to gather a comprehensive dataset of Almaty's s
     - Execute the script to begin scraping sightseeing recommendations from the website.
     - The data will be processed and stored in a CSV file, including the name, address, coordinates, elevation, and weather forecast for each location.
 
----
-
-Let me know if you need further details or edits!
