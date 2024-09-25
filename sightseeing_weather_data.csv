@@ -1,0 +1,96 @@
+data_id,name,address,latitude,longitude,elevation
+1,The Alley of Victor Tsoi in Almaty, Intersection of Tulebaev and Kabanbai Batyr streets,43.2498431,76.9491156,831.8161010742188
+2,The Denis Ten’s Memorial,,43.2446886,76.9447027,846.6092529296875
+3,Two Kazakh heroines: The Monument to Aliya Moldagulova and Manshuk Mametova," Memorial Square, named after Aliya Moldagulova and Manshuk Mametova (square of Tole Bi - Abylai Khan - Bogenbai Batyr - Panfilov streets).",43.253888,76.9433502,810.0891723632812
+4,"The composition ""Tauelsizdik tany"" (Dawn of Freedom)", The intersection of Zheltoksan Avenue and Satpayev Street.,43.4130365,76.9109488,655.7542724609375
+5,Memorial of the Glory in the Park of the 28 Panfilov Guardsmen, The Park of the 28 Panfilov Guardsmen,43.2588333,76.9541316,802.6917724609375
+6,The Park of the 28 Panfilov Guardsmen, The square of Kunaev - Gogol - Zenkov - Kazybek bi streets.,43.2588333,76.9541316,802.6917724609375
+7,Monument of Independence and Republic Square," Satpayev Street, between Zheltoksan and Nazarbayev Avenues.",43.2382699,76.9450337,872.248291015625
+8,"Kok-Tobe, the highest recreation park in Almaty", Kok-Tobe Mountain,43.12980599999999,76.905056,1315.7861328125
+9,Pedestrian Street of Panfilov, Panfilov Street,43.251415,76.9453016,820.3334350585938
+10,Pedestrian street of Zhibek Zholy, Zhibek Zholy Street,43.2628492,76.9577592,787.8994140625
+11,Almaty Zoo," Esenberlin Street, 166.",43.2633868,76.9763756,800.3595581054688
+12,"The National Russian Drama Theater, named after Mikhail Lermontov"," Abai Avenue, 43.",43.2379761,76.8828618,814.3273315429688
+13,Almaty Central Mosque," Pushkin Street, 16.",43.2681304,76.9530333,771.75927734375
+14,Ascension Cathedral," Gogol Street, 40V.",43.2587617,76.9529706,802.9083251953125
+15,St. Nicholas Cathedral," Baitursynov Street, 56/5.",43.2485241,76.9281389,808.5620727539062
+16,"The Park, named after the First President of the Republic of Kazakhstan", The intersection of Al-Farabi Avenue and Navoi Street.,43.2629445,76.93775579999999,776.2052001953125
+17,The House-Museum of Akhmet Baitursynov," Baitursynov Street, 60.",43.2379761,76.8828618,814.3273315429688
+18,Almaty Military History Museum," Zenkov Street, 24, The Officers’ House, ​2nd floor, the right wing.",43.2584768,76.95699789999999,804.696533203125
+19,The Almaty Museum," Kabanbai Batyr Street, 132/85.",43.248717,76.9360756,818.9140014648438
+20,Central State Museum of the Republic of Kazakhstan," District Samal-1, 44.",43.2358091,76.9507665,895.7365112304688
+21,A. Kasteev Art Museum," District Koktem-3, 22/1.",43.2358932,76.91927,832.5630493164062
+22,State Literary and Memorial Museum Complex of S. Mukanov and G. Musrepov," Tulebaev Street, 125.",43.2388606,76.9181509,824.56494140625
+23,The House Museum of Dinmukhamed Kunaev," Tulebaev Street, 117.",43.2379761,76.8828618,814.3273315429688
+24,"State Academic Russian Theater for Children and Young People, named after Natalia Sats"," Shalyapin Street, 22.",43.2379761,76.8828618,814.3273315429688
+25,"Kazakh National Opera and Ballet Theater, named after Abai Kunanbaev"," Kabanbai Batyr Street, 110.",43.2379761,76.8828618,814.3273315429688
+26,Fantasy World Almaty," Abai Avenue, 50a/1.",43.2399304,76.91871239999999,821.7386474609375
+27,Almaty Central Recreation Park," Gogol Street, 1.",43.2383345,76.92415629999999,829.25
+28,Falcon Nursery “Sunkar”," Alma-Arasan street, 7, 8th km of the Alma-Arasan highway from Al-Farabi.",43.127785,76.9053131,1338.397705078125
+29,Bukreev Peak,,43.1668968,77.13435009999999,2994.7294921875
+30,Almaty Botanical Garden," Timiryazev Street, 36",43.2196703,76.9133403,883.5746459960938
+31,Big Almaty Lake," All routes to BAL start from Dulati Street. You can use a car or public transport, but you can only approach the lake itself on foot.",43.05055600000001,76.985,2506.0
+32,Almaty Terrencur (Health Path), The path begins at the Kazakhstan Hotel behind Dostyk Avenue and continues in the upper part of the city for 4.5 kilometers.,43.2379761,76.8828618,814.3273315429688
+33,Kimasar Gorge," Before reaching the Medeo ice rink, follow the sign and turn left. Then drive or walk a couple of kilometers to the ranger’s house.",43.1639984,77.07328679999999,1859.544189453125
+34,Green Bazaar," Zhibek Zholy Street, 53.",43.26423,76.9547506,783.1202392578125
+35,Almaty Circus – Kazakh State Circus," Abai Avenue, 50.",43.2391716,76.91739059999999,822.8218994140625
+36,The Republican State Academic Korean Theater," Bogenbai Batyr Street, 158.",43.2379761,76.8828618,814.3273315429688
+37,"State Republican Academic Uyghur Theater of Musical Comedy, named after Quddus Kuzhamyarov"," Nauryzbai Batyr Street, 83.",43.2511094,76.9362867,813.6533203125
+38,"""ARTiSHOCK"" theater"," Big stage: Gogol Street, 40. Small stage: Kunaev Street, 49/68.",43.2618571,76.9489842,790.0624389648438
+39,"Kazakh State Academic Theater for Children and Youth, named after Gabit Musrepov"," Abylai Khan Avenue, 38.",43.2659864,76.9411638,771.219482421875
+40,Issyk Mounds," These mounds are 60 kilometers away from Almaty. This distance covers an hour along the Kuldzhnski highway in the direction of Issyk City. From the highway right before the village of Novoalekseevka, turn right and drive about 10 kilometers more, and you will see the State Museum-Reserve “Issyk” on the right.",43.2526586,77.4852541,1713.160888671875
+41,Butakovskoye Gorge," The route starts at “Medeu.” You can get there by car or public transport. From the ice rink, you need to walk about 50 meters down; you will see a road going to the right and up into the mountains. Then you should go through the Maly Kimasar Pass and climb to the Butakovsky Gorge.",43.2379761,76.8828618,814.3273315429688
+42,The Republic Palace," Dostyk Avenue, 56.",43.2432277,76.9593441,870.5362548828125
+43,Jambyl Kazakh State Philharmonic," Kaldayakov Street, 35.",43.2562211,76.9580376,815.46875
+44,Almaty Theater," Al-Farabi Avenue, 30.",43.2267052,76.9468988,921.8934936523438
+45,The Republican Academic German Drama Theater," Papanin street, 70/1.",43.2379761,76.8828618,814.3273315429688
+46,The Beatles Monument, Kok-Tobe Park,43.2330501,76.9760865,1108.134155273438
+47,“Baiserke” airfield," Go along Zhansugurova Street to Erkin village, turn right onto Momyshuly Street, and move east to the airfield gate.",43.485513,77.03917539999999,600.6380615234375
+48,Almaty State Puppet Theater," Pushkin Street, 63.",43.26130819999999,76.9526115,792.8524169921875
+49,Ice complex Halyk Arena," Kuldzhinsky tract, 2d.",43.2872664,76.9902992,748.9483032226562
+50,Almaty Central Stadium," Satpayev Street, 29/3.",43.2383345,76.92415629999999,829.25
+51,Almaty Arena Ice Palace," Nurkent district, 7​.",43.2624015,76.8193245,756.2161254882812
+52,High-mountain sports complex “Medeu”," The most optimal and environmentally friendly way to get to the “Medeu” sports complex and back to the city is bus number 12, which runs from Dostyk Avenue.",43.158205,77.0589871,1684.794189453125
+53,“Shymbulak” Ski Resort," The easiest way to get there is by cable car, which starts at the Medeu sports complex. Only electric transport is allowed into the resort area.",43.1287067,77.0804725,2277.667236328125
+54,Astana Square, Located in the city center in the Almaly district on Tole bi street between Panfilov and Abylay Khan streets.,43.25353020000001,76.94330889999999,810.308349609375
+55,Iversko-Seraphimsky Convent," Latifa Hamidi Street, 30.",43.2379761,76.8828618,814.3273315429688
+56,Nomad Ethnic Center," You take the Tashkent highway (A-2), where you turn left towards the village of Shamalgan. Drive along the main street of the village, Zhibek Zholy, and before reaching the sports school, turn left. After you reach Alzhan Street, turn right and go straight about 3.3 km to the ethnic center.",43.2379761,76.8828618,814.3273315429688
+57,"Ethno-aul ""Huns"""," Almaty region, Ryskulovo village, Soldatskoe Gorge Street, 5. Ethno-aul is located behind Talgar; by car, the trip will take about 1 hour and a half along the Talgar tract (about 53 km). You can also get there by bus No. 224 from the “Palace of Sports” bus stop in Almaty.",43.2379761,76.8828618,814.3273315429688
+58,“Ayusai” Visit Center," Located in the Ayusai Gorge on the way to the Big Almaty Lake. You can get there by bus No. 211 (only on weekends), by private car, taxi, or on foot (about 1.5 hours from the final stop of bus No. 28).",43.1012615,76.9444007,1659.907592773438
+59,Lake Issyk," Go 36 kilometers to Issyk city along the Kuldzhinsky tract. Following the signs, you can easily find the way to the lake. The distance between the city and the lake is around 14 kilometers.",43.2526586,77.4852541,1713.160888671875
+60,Museum complex of Zhambyl Zhabayev," This complex is located 70 kilometers from Almaty, in the village of Zhambyl, at Zhambyl Street, 28.",43.2908595,76.8401572,739.6552124023438
+61,House-Museum of Mukhtar Auezov," Tulebaev Street, 185.",43.2198813,76.8511111,857.1227416992188
+62,Building of the Kazakhstan National Academy of Sciences," Square of Shevchenko, Pushkin, Kurmangazy, and Kunaev streets.",43.251796,76.944487,817.4214477539062
+63,The Almaty Metro,,43.2379761,76.8828618,814.3273315429688
+64,“Kazakhstan” Hotel," Dostyk Avenue, 52/2.",43.2379761,76.8828618,814.3273315429688
+65,"""Nedelka"" Fountain"," Baiseitov Street, 1.",43.243381,76.953391,868.7190551757812
+66,The Birch Grove “Ak-Kayin”," You can get there in 20 minutes. Ride buses 5B and 5V at Dostyk Avenue. Get off at the final stop and continue walking up Azhibay Batyr Street, turning right at the fork in the road. After 10 minutes, there will be an eco-post and the entrance to the grove.",43.2379761,76.8828618,814.3273315429688
+67,Charyn Canyon," The canyon is 195 kilometers away from Almaty. You need to drive along the Kuldzhinsky highway, then turn near the villages of Shelek and Kokpek, and follow the signs to the Charyn Canyon.",43.2379761,76.8828618,814.3273315429688
+68,Kaindy Lake," It is 294 kilometers from Almaty to Lake Kaindy. The trip takes up to 5 hours. Not far from the lake, there is Saty village. It is better to go to Kaindy by off-road cars. Enjoy your trip as part of a tour group.",42.9840814,78.4673797,1952.34326171875
+69,Singing Dune, Singing Dune is 300 kilometers from Almaty in the Altyn-Emel National Park.,43.2379761,76.8828618,814.3273315429688
+70,Turgen Gorge," This gorge is 70 kilometers from Almaty. Along the Talgar or Kuldzhinsky highway, you need to get to the village of Turgen, turn right in front of it (before reaching the Royal Petrol gas station), and after a few kilometers, there will be an eco-post.",43.3951816,77.59666419999999,989.2577514648438
+71,Tamgaly tas," Along the Kapchagay highway, you need to pass Konaev city, turn left at the first junction onto the A355 highway, and after 12.5 kilometers, move northwest towards the Ili River.",43.2379761,76.8828618,814.3273315429688
+72,Kok-Zhailau plateau, The plateau is located 10 kilometers from Almaty in the Ile-Alatau National Park. The routes start from the Medeu Gorge or Dulati Street.,43.1427215,77.0037925,2231.608642578125
+73,Pervomaiskie Ponds, These ponds are 23 kilometers from Almaty. You can get there by bus No. 231 from the Sayakhat bus station to the bus stop “Pervomaiskie Prudy.” You can also get there by riding a car with a navigator. ,43.2379761,76.8828618,814.3273315429688
+74,Kolsai Lakes, From Almaty to Saty village is about 280 kilometers. The lower lake is 10 kilometers away from Saty village. You can get there by SUV. Weekend tours to the lakes are available from Almaty travel agencies all year round.,43.2381324,76.90312560000001,817.8883056640625
+75,Alma-Arasan Gorge," Bus No. 28, 108, and 211 go to the gorge along Dulati Street. If you want to go by car, you should also go along Dulati Street to the “Alma-Arasan Sanatorium” bus stop. From that stop, you should walk or drive to the parking lot where the fork begins (road signs will show the way).",43.0870971,76.9064464,1746.519897460938
+76,Molodezhny Peak," The hike begins from the “Alpine Rose” Hotel; you can get there along Dulati Street. You should go through the Shukur and Kumbelsu gorges. It is better to divide hiking into two stages, with an overnight stay at the foot of the peak.",43.0534726,77.0601139,4136.27783203125
+77,Kumbel Peak, You can go to Kumbel Peak through the Kok-Zhailau or Gorelnik gorges.,43.1223181,77.0270133,3144.792236328125
+78,"The Dostyk Park, named after Khamit Yergali", Located between the Esentai River and Shashkin and Timiryazev streets.,43.2629445,76.93775579999999,776.2052001953125
+79,The Monument to Shokan Ualikhanov," Square of Shevchenko, Pushkin, Zhambyl, and Kunaev streets.",43.2472448,76.95294600000001,848.6524047851562
+80,Park of Soviet Monuments," The square is located behind the Sary-Arka cinema at Altynsarin Street, 24a.",43.2379761,76.8828618,814.3273315429688
+81,The Monument to Zhambyl Zhabayev, The intersection of Dostyk Avenue and Zhambyl Street.,43.2908595,76.8401572,739.6552124023438
+82,The Monument to Mahatma Gandhi," The monument is in the Park, named after Mahatma Gandhi, in the square of Shevchenko, Zharokov, Zhambyl, and Gagarin streets.",43.2379761,76.8828618,814.3273315429688
+83,The Monument to Abai Kunanbaev, Abai Square at the intersection of Abai and Dostyk avenues.,43.2257437,76.8617963,844.9096069335938
+84,The House of Textiles “Kyzyl Tan”," Zhibek Zholy Avenue, 63.",43.2623688,76.95057299999999,789.5164184570312
+85,Family Park," ​Ulugbek Avenue, 57a.",43.2264783,76.8548443,836.2882690429688
+86,Wedding Palace," Abai Avenue, 101a.",43.2412626,76.9200199,819.054931640625
+87,Gorelnik Gorge, Gorelnik Gorge is located on the western slope of the Maloalmatinsky Gorge. The route to it starts at the “Gorelnik” bus stop. You can get to it by eco-bus from the Medeu ice rink or walk up.,43.1212339,77.05359779999999,2460.412841796875
+88,Almaty Gallery," Dostyk Avenue, 44.",43.2488189,76.9575097,845.7870483398438
+89,Tulebaev Street," Tulebaev Street is located in the historical city center, which is unofficially called “Golden Square.”",43.2379761,76.8828618,814.3273315429688
+90,"Palace of Sports and Culture, named after Baluan Sholak"," Abai Avenue, 44.",43.2400523,76.9265753,830.3056030273438
+91,Asy Plateau," The Asy (Assy) plateau is located at the end of the Turgen Gorge, 200 kilometers from Almaty. It is better to travel there as part of a tour group.",43.2264296,77.8732538,2654.50439453125
+92,"Bath and health complex ""Arasan"""," Tulebaev Street, 78.",43.1674962,76.8253051,1114.041259765625
+93,Observatory of the Astrophysical Institute on the Kamensky Plateau," Observatory Street, 23, Kamenskoye Plateau.",43.2379761,76.8828618,814.3273315429688
+94,"Hotel ""Almaty"""," ​Kabanbay Batyr Street, 85​.",43.2336572,76.8594868,816.6007690429688
+95,Staircase of health in the Medeu tract," This staircase is located 25 kilometers from Almaty, above the Medeu complex.",43.2645281,76.9525699,782.2286987304688
